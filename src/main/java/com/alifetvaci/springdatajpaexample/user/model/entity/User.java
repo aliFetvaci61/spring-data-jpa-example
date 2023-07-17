@@ -3,7 +3,7 @@ package com.alifetvaci.springdatajpaexample.user.model.entity;
 
 import com.alifetvaci.springdatajpaexample.common.entity.BaseEntity;
 import com.alifetvaci.springdatajpaexample.device.model.entity.Device;
-import com.alifetvaci.springdatajpaexample.token.entity.model.Token;
+import com.alifetvaci.springdatajpaexample.token.model.entity.Token;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

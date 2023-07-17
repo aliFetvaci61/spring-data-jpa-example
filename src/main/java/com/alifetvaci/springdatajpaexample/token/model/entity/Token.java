@@ -1,4 +1,4 @@
-package com.alifetvaci.springdatajpaexample.token.entity.model;
+package com.alifetvaci.springdatajpaexample.token.model.entity;
 
 import com.alifetvaci.springdatajpaexample.common.entity.BaseEntity;
 import com.alifetvaci.springdatajpaexample.device.model.entity.Device;
